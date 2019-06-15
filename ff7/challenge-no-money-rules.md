@@ -7,6 +7,7 @@
 - Slots limit is banned. 
 - Activities that involves spending gil are banned (Stores, non-free inns, throw gil skill)
 - The only 2 exceptions are the purchasing of the battery in Midgar and the Gold Saucer Ticket (any version permitted)
+- Selling is allowed
 
 ### Platform specific rules : PS1/PS2
 - Must not open disk tray except when the game prompts you to 
