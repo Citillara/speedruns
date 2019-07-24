@@ -9,7 +9,7 @@
 - The only 3 exceptions are :
    1. Purchasing of the battery in Midgar
    2. Gold Saucer Ticket (any version permitted)
-   3. Juno guard bribe
+   3. Junon guard bribe
 - Selling is allowed
 
 ### Platform specific rules : PS1/PS2
