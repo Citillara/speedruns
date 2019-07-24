@@ -6,7 +6,10 @@
 - Turbo controller is banned
 - Slots limit is banned. 
 - Activities that involves spending gil are banned (Stores, non-free inns, throw gil skill)
-- The only 2 exceptions are the purchasing of the battery in Midgar and the Gold Saucer Ticket (any version permitted)
+- The only 3 exceptions are :
+   1. Purchasing of the battery in Midgar
+   2. Gold Saucer Ticket (any version permitted)
+   3. Juno guard bribe
 - Selling is allowed
 
 ### Platform specific rules : PS1/PS2
