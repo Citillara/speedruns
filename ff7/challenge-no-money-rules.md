@@ -5,6 +5,7 @@
 - [JP version] Timing is from Power on until "The End" logo after credits
 - Turbo controller is banned
 - Slots limit is banned. 
+- Materia transfer glitch is banned.
 - Activities that involves spending gil are banned (Stores, non-free inns, throw gil skill)
 - The only 3 exceptions are :
    1. Purchasing of the battery in Midgar
