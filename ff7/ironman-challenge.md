@@ -2,20 +2,20 @@
 
 ### Essential Guidelines
 
-- **Permanence of Defeat:** If a character is defeated, their use is discontinued. If this character revives within the party, they must be defeated again.
+- **Permanent death:** If a character is K.Od, their use is discontinued forever. If this character revives automatically on story triggers, they must be KOd again inmediatly.
 - **Battle Item Prohibition:** Items can't be used during battle, although they are permitted outside of battle.
-- **Limited Rest:** Each resting point (inns, free rests) may be utilized only once.
-- **Restricted Actions in Random Battles:** In random battles, the only permissible action is to retreat. Stealing, manipulating, and similar actions are forbidden.
+- **Limited Rest:** Each resting point (inns, free rests) may be utilized only once per location (Example: You may only use 1 time the Costa Del Sol inn).
+- **Restricted Actions in Random Battles:** In random battles, the only permissible action is to retreat. Stealing, manipulating, and similar actions are forbidden. The only exception is pincer attacks. You are allowed to kill one of the sides, and then run away. (No stealing)
 - **Battle Endurance:** Remaining in a battle to increase the Limit Break bar is acceptable, but escape must follow.
-- **Non-Random Battle Flexibility:** Forced battles that aren't "random" are allowed (such as spiders in the Gi cave, soldiers in the Shinra mansion, etc).
+- **Non-Random Battle Flexibility:** Forced battles that aren't "random" are allowed (such as spiders in the Gi cave, soldiers in the Midgar train section, etc).
+- **Optional boss battles** You are allowed to take on the optional boss battles. (Example, Yuffie recruitment, Lost number ,etc.)
 - **Challenge Continuity:** If a game over occurs, or a mistake is made, the game cannot be loaded from a previous save. Instead, the challenge must restart from the beginning.
 - **Save & Load Privileges:** Saving and loading the game is allowed when pausing gameplay.
-- **Optional Rule Flexibility:** The Yuffie recruitment battle's validity within this ruleset is left to your discretion.
 
 ### Hard variant
-
-- **No Forced Battles:** Even non-random battles can't be provoked. When a choice impacts the number of battles, always opt for the path with the least conflict.
-- **Specific Prohibitions:** Avoid actions like using the stairs in the Shinra mansion, fighting only 2 spiders in the Gi cave, engaging with the Lost Number boss, initiating Yuffie recruit battle, and avoiding monster chests in the Temple of the Ancients.
+- **In adition to the previous rules, Hard variant also adds:**
+- **No Forced Battles:** Optional battles cannot be triggered. When in a story trigger, you must choose diferent paths, always choose the one with the least battles (Example, stairs in the shinra building, only 2 mandatory spiders in the cave of Gi, or the temple of the ancients monster chests)
+- **Exceptions:** You are allowed to recruit Yuffie, and defeat Lost number to recruit Vincent.
 
 ### Hardcore variant
 
