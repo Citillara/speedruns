@@ -1,4 +1,4 @@
-# Final Fantasy VII - Hardcore Challenge 
+# Final Fantasy VII - Ironman Challenge 
 
 ### Essential Guidelines
 
