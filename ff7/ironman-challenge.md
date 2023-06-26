@@ -1,4 +1,4 @@
-# Final Fantasy VII - Resilience Challenge 
+# Final Fantasy VII - Hardcore Challenge 
 
 ### Essential Guidelines
 
@@ -12,16 +12,16 @@
 - **Save & Load Privileges:** Saving and loading the game is allowed when pausing gameplay.
 - **Optional Rule Flexibility:** The Yuffie recruitment battle's validity within this ruleset is left to your discretion.
 
-### Advanced Version
+### Hard variant
 
 - **No Forced Battles:** Even non-random battles can't be provoked. When a choice impacts the number of battles, always opt for the path with the least conflict.
 - **Specific Prohibitions:** Avoid actions like using the stairs in the Shinra mansion, fighting only 2 spiders in the Gi cave, engaging with the Lost Number boss, initiating Yuffie recruit battle, and avoiding monster chests in the Temple of the Ancients.
 
-### Expert Mode
+### Hardcore variant
 
 - **Total Item Ban:** Using items is not permitted, even outside of battle.
 - **Restricted Rest:** You are only allowed to use inns or rest spots when the game mandates it.
 
-### Genius Level Challenge
+### Planetary IQ variant
 
 - **Exclusive Character Usage:** You may only control one character at any given time. Characters you defeat for this purpose do not count towards the permanence of defeat rule; you can revive and use them as long as you were the one to defeat them. You are allowed to swap your chosen character anytime, but not during a battle.
